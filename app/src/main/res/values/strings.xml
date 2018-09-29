@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CabreraGaibrielleLab4</string>
+    <string name="title">Bambike Ecoutours Intramuros</string>
+    <string name="loc">Location:</string>
+    <string name="distance">Distance to UST:</string>
+    <string name="loc1">Real St. cor Gen. Luna St. Plaza San Luis Complex, Intramuros, Manila, Luzon, Philippines</string>
+    <string name="dist1">3.7 km away from UST</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
