@@ -38,6 +38,12 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
         Log.d("4ITH","onRestart() was successfully executed.");
     }
+    
+    @Override
+    protected void onStop(){
+        super.onStop();
+        Log.d("4ITH","onStop() was successfully executed.");
+    }
 
     @Override
     protected void onDestroy(){
